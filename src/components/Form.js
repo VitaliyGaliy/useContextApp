@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Context } from "../App";
 
 function Form() {
-  console.log("Form @@@@@@");
+  console.log("Form UPDATED");
 
   const store = useContext(Context);
 
